@@ -1,3 +1,5 @@
+![Go Make It.](https://dylankainth.com/go-make-it.png)
+
 - 👋 Hi, I’m @dylankainth
 - 👀 I’m interested in all things tech
 - 🌱 I’m currently learning Web Development with Vue and ESP32 with Arduino.
