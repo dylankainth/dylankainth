@@ -1,4 +1,4 @@
-![Go Make It. ](https://dylankainth.cm/go-make-it.png)
+
 
 <!---
 dylankainth/dylankainth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
